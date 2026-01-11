@@ -8,8 +8,6 @@
 - 🔧 10+ years of experience in IT
 - ☁️ Hands-on with AWS, Linux, Docker, Ansible
 - 🛠 DevOps | Automation | Cloud Infrastructure
-- 📈 Currently doing **100 Days of DevOps**
-- 📈 Currently doing **100 Days of AWS**
 
 
 ## 🤝 Connect with Me
