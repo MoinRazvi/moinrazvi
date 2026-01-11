@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm MoinRazvi
+
+🚀  DevOps Engineer | Multi Cloud Enthusiast  
+
+---
+
+## 👨‍💻 About Me
+- 🔧 10+ years of experience in IT
+- ☁️ Hands-on with AWS, Linux, Docker, Ansible
+- 🛠 DevOps | Automation | Cloud Infrastructure
+- 📈 Currently doing **100 Days of DevOps**
+
+
+## 🤝 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: your@email.com
+
 
 <!--
 **MoinRazvi/moinrazvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
