@@ -9,11 +9,12 @@
 - ☁️ Hands-on with AWS, Linux, Docker, Ansible
 - 🛠 DevOps | Automation | Cloud Infrastructure
 - 📈 Currently doing **100 Days of DevOps**
+- 📈 Currently doing **100 Days of AWS**
 
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/shaik-razvi-a74b4b376/
+- 📧 Email: shaikrazvi@gmail.com
 
 
 <!--
