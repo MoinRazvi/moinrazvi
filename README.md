@@ -1,6 +1,6 @@
-# Hi 👋, I'm Shaik Razvi
+# Hi 👋, I'm Moin Razvi
 
-🚀  DevOps Engineer | Multi Cloud Enthusiast  
+🚀  DevOps Engineer | Multi Cloud Enthusiast 
 
 ---
 
@@ -11,7 +11,7 @@
 
 
 ## 🤝 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/shaik-razvi-a74b4b376/
+- 💼 LinkedIn: www.linkedin.com/in/shaik-moinuddin-razvi-a74b4b376
 - 📧 Email: shaikrazvi@gmail.com
 
 
