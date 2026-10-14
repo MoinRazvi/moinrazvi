@@ -4,14 +4,14 @@
   <strong>🚀 DevOps Engineer | Cloud Infrastructure | Delivery management | Client engagement | Consulting | Team leadership.  </strong>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://komarev.com/ghpvc/?username=MoinRazvi">
     <img src="https://komarev.com/ghpvc/?username=MoinRazvi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/MoinRazvi?tab=followers">
     <img src="https://img.shields.io/github/followers/MoinRazvi?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -27,12 +27,12 @@
 - 🌱 Currently strengthening my skills in advanced AWS, Kubernetes, Terraform, and DevOps automation
 - 📫 Reach me at: shaikrazvi@gmail.com
 
-
+<!--
 ## 🏆 GitHub Profile Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MoinRazvi&theme=flat&no-frame=true&margin-w=8" alt="GitHub Profile Trophies" />
-</p>
+</p> -->
 
 ## 🧰 Languages and Tools
 
