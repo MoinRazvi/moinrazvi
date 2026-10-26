@@ -1,7 +1,7 @@
 # Hi 👋, I'm Moin Razvi
 
 <p align="center">
-  <strong>🚀 DevOps Engineer | Cloud Infrastructure | Delivery management | Client engagement | Consulting | Team leadership.  </strong>
+  <strong>🚀 DevOps Engineer | AWS, EKS, Terraform, Argo CD, GitHub Actions | 4+ yrs Cloud, 15+ yrs Delivery Leadership  </strong>
 </p>
 
 <!--<p align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 18+ years of overall IT experience, including 4+ years in DevOps
+- 💼 4+ years of experience in DevOps, with 18+ years of overall IT experience 
 - ☁️ Hands-on experience with AWS, EC2, S3, IAM, VPC, EKS, and cloud networking
 - 🐳 Experienced with Docker, Kubernetes, Helm, and container orchestration
 - 🏗️ Infrastructure as Code using Terraform
